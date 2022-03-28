@@ -3,3 +3,8 @@ tf_model_flask/__pycache__
 *.pyc
 
 sntp_angular_frontend/node_modules/*
+
+/angular_frontend/.angular/*
+
+/angular_frontend/.vscode/*
+
