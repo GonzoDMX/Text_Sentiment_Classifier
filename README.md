@@ -4,9 +4,13 @@ This is a fullstack application I developed to demonstrate a solution for deploy
 
 ![](assets/fullstack_ai.png)
 
-## SNTP Angular Frontend
+## Angular Frontend
 
-This is the frontend of the application. In order to run the frontend first run the command `npm install` to install the project dependecies. Then launch with `npm start`.
+This is the frontend of the application. In order to run the frontend first run the command `npm install` to install the project dependecies. Then launch with `npm start`. The frontend is built using Angular 13 and TypeScript.
+
+![](assets/home_page.png)
+
+![](assets/admin_monitor.png)
 
 ## TF Model Flask
 
